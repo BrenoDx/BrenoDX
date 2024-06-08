@@ -1,7 +1,7 @@
 ## Seja Bem-vindo(a) 😁
 
-Olá me chmao Breno,
-Minha trajetória começou como Jovem aprendiz no BRB - Banco de Brasília, o desejo contínuo de adquirir conhecimento me levou a transição de carreira para a área da programação e atualmente estou cursando Tec. Desenlvovimento de sistema pela instituição SENAC, prentendo evoluir cada vez mais nesse universo da programação.
+Olá bem-vindo ao meu perfil, me chamo Breno e
+minha trajetória começou como Jovem aprendiz no BRB - Banco de Brasília com o desejo contínuo de adquirir conhecimento me levou a transição de carreira para a área da programação e atualmente estou cursando Tec. Desenlvovimento de sistema pela instituição SENAC, prentendo evoluir cada vez mais nesse universo da programação.
 
  <div>
    <a href="https://github.com/BrenoDX">
@@ -13,6 +13,7 @@ Minha trajetória começou como Jovem aprendiz no BRB - Banco de Brasília, o de
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt= "Python" height="30" width="40" src="">
 </div>
  
 <br>
