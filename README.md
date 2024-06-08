@@ -1,5 +1,8 @@
 ## Seja Bem-vindo(a) 😁
 
+Olá me chmao Breno,
+Minha trajetória começou como Jovem aprendiz no BRB - Banco de Brasília, o desejo contínuo de adquirir conhecimento me levou a transição de carreira para a área da programação e atualmente estou cursando Tec. Desenlvovimento de sistema pela instituição SENAC, prentendo evoluir cada vez mais nesse universo da programação.
+
  <div>
    <a href="https://github.com/BrenoDX">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrenoDX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
