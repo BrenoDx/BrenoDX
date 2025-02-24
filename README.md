@@ -1,26 +1,27 @@
-## Seja Bem-vindo(a) 😁
 
-Olá bem-vindo ao meu perfil, me chamo Breno e
-minha trajetória começou como Jovem aprendiz no BRB - Banco de Brasília com o desejo contínuo de adquirir conhecimento me levou a transição de carreira para a área da programação e atualmente estou cursando Tec. Desenlvovimento de sistema pela instituição SENAC, prentendo evoluir cada vez mais nesse universo da programação.
+# Sejam Bem-vindo(a) 😀
 
- <div>
-   <a href="https://github.com/BrenoDX">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrenoDX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoDX&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+## 🧙 Sobre mim
 
-</div>
- 
-<br>
- 
-<div> 
-  <a href="https://instagram.com/brenodx11" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/@brenodx11" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:breno.alvesdx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/breno-alves-2b0060185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+Me chamo Breno sou de São Paulo, a "Gotham brasileira", e minha trajetória começou cedo mas nada com a área da tecnologia, aos 14 anos, como Jovem Aprendiz em uma instituição financeira. Sempre fui movido pela curiosidade e pelo desejo de aprender, o que me levou em 2024 ao mundo da programação. 
+
+Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas no SENAC e, ao mesmo tempo, Tecnólogo em Análise e Desenvolvimento de Sistemas na FAM meio doido né. Minha meta é evoluir constantemente e me aprofundar cada vez mais no desenvolvimento de software. 
+Estou aprendendo programação, com foco em JAVA e SQL, utilizando o MySQL como banco de dados. 
+* 🎮 PC/PS5 (Dx11/BrenoDX11)
+* 📖 Mangás e animes
+* 🦇 DC Comics
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrenoDx&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BrenoDx&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
+## 💻 Habilidades - Basic Level
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+## 📓Contatos
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-alves-2b0060185/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@brenodx11)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brenodx11)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:breno.alvesdx@gmail.com)
