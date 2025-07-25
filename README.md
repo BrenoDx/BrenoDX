@@ -25,7 +25,7 @@ My focus is on learning **Java** and **SQL**, using **MySQL** as the main databa
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrenoDx&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BrenoDx&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrenoDx&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoDx11&layout=compact&langs_count=16&theme=highcontrast))
 
 
 ## 💻 Habilidades | Skills - Basic Level
