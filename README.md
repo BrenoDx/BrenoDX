@@ -26,8 +26,8 @@ My focus is on learning **Java** and **SQL**, using **MySQL** as the main databa
 ## 📊 GitHub Stats
 
 <div align="center">  
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoDx&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BrenoDx&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=781b7c&text_color=c9d1d9&bg_color=0d1117" alt="Breno github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoDx&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 
