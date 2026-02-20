@@ -1,39 +1,48 @@
+# 👋 Olá, eu sou o Breno Alves
 
-# 👋 Sejam Bem-vindo(a) | Welcome 😀
+💻 Desenvolvedor em formação focado em Back-end  
+🚀 Evoluindo com Java, Python e Banco de Dados  
+📍 São Paulo - Brasil  
 
-## 🇧🇷 Sobre mim 🧙
-
-Me chamo Breno sou de São Paulo, a "Gotham brasileira", e minha trajetória começou cedo mas nada com a área da tecnologia, aos 14 anos, como Jovem Aprendiz em uma instituição financeira. Sempre fui movido pela curiosidade e pelo desejo de aprender, o que me levou em 2024 ao mundo da programação. 
-
-Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas no SENAC e, ao mesmo tempo, Tecnólogo em Análise e Desenvolvimento de Sistemas na FAM meio doido né. Minha meta é evoluir constantemente e me aprofundar cada vez mais no desenvolvimento de software. 
-Estou aprendendo programação, com foco em JAVA e SQL, utilizando o MySQL como banco de dados. 
-* 🎮 PC/PS5 (Dx11/BrenoDX11)
-* 📖 Mangás e animes
-* 🦇 DC Comics
 ---
-## 🇺🇸 Hi there! I'm Breno 🧙
 
-I'm from São Paulo, the “Brazilian Gotham,” and my journey started early — but not in tech. At age 14, I started as a Young Apprentice at a financial institution. Driven by curiosity and a passion for learning, I dove into programming in 2024.
+## 🇧🇷 Sobre mim
 
-I'm currently studying **System Development** at **SENAC** and pursuing a **Technologist degree in Systems Analysis and Development** at **FAM** (yes, doing both at once — a bit crazy, I know 😅). My goal is to keep growing and dive deeper into software development.
+Minha jornada começou cedo, aos 14 anos, como Jovem Aprendiz em uma instituição financeira.  
+Em 2024 iniciei minha transição para a área de tecnologia, movido pela curiosidade e pelo desejo constante de evoluir.
 
-My focus is on learning **Java** and **SQL**, using **MySQL** as the main database.
+Atualmente estou cursando:
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — FAM  
 
-- 🎮 PC/PS5 (Dx11/BrenoDX11)  
-- 📖 Manga and anime fan  
-- 🦇 DC Comics enthusiast  
+Meu foco está em desenvolvimento backend, lógica de programação, banco de dados e construção de aplicações desktop e web.
+
+---
+## 🧠 Stack Atual
+
+- ☕ Java (POO, Swing, Spring)
+- 🐍 Python (Fundamentos)
+- 🗄 SQL & MySQL
+- 🔧 Git & GitHub
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BrenoDx&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BrenoDx&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BrenoDx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BrenoDx&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 
-## 💻 Habilidades | Skills - Basic Level
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+---
 
+## 🚀 Projetos em Evolução
+
+- 🔹 Fotogames (Java - Web)
+- 🔹 Conversor de Moedas (Python&Java - Desktop)
+- 🔹 Calculadora (Python&Java - Desktop)
+- 🔹 Versões Web em desenvolvimento
+
+
+---
 ## 📓Contatos | Contacts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-alves-2b0060185/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@brenodx11)
