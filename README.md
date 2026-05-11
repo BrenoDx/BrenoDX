@@ -37,7 +37,7 @@ Meu foco está em desenvolvimento backend, lógica de programação, banco de da
 ## 🚀 Projetos em Evolução
 
 - 🔹 Fotogames (Java - Web)
-- 🔹 Conversor de Moedas (Python&Java - Desktop)
+- 🔹 Conversor de Moedas (Java - Desktop)
 - 🔹 Calculadora (Python&Java - Desktop)
 - 🔹 Versões Web em desenvolvimento
 
