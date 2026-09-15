@@ -25,14 +25,14 @@ Meu foco está em desenvolvimento backend, lógica de programação, banco de da
 - 🔧 Git & GitHub
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BrenoDx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BrenoDx&layout=compact&theme=tokyonight&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=BrenoDx&theme=github_dark&fire=00ff99&ring=00ff99&sideNums=ffffff&hide_border=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=BrenoDx&theme=default&fire=00843c&ring=00843c&sideNums=24292f&hide_border=false">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BrenoDx&theme=github_dark&fire=00ff99&ring=00ff99&sideNums=ffffff&hide_border=false" />
+  </picture>
 </p>
 
-
----
 
 ## 🚀 Projetos em Evolução
 
